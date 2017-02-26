@@ -1,0 +1,39 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Course] (Table)
+       [dbo].[Course].[IX_DepartmentID] (Index)
+       [dbo].[CourseInstructor] (Table)
+       [dbo].[CourseInstructor].[IX_CourseID] (Index)
+       [dbo].[CourseInstructor].[IX_InstructorID] (Index)
+       [dbo].[Department] (Table)
+       [dbo].[Department].[IX_InstructorID] (Index)
+       [dbo].[Enrollment] (Table)
+       [dbo].[Enrollment].[IX_CourseID] (Index)
+       [dbo].[Enrollment].[IX_StudentID] (Index)
+       [dbo].[OfficeAssignment] (Table)
+       [dbo].[OfficeAssignment].[IX_InstructorID] (Index)
+       [dbo].[Person] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Course] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Person] (Default Constraint)
+       [dbo].[FK_dbo.Course_dbo.Department_DepartmentID] (Foreign Key)
+       [dbo].[FK_dbo.CourseInstructor_dbo.Course_CourseID] (Foreign Key)
+       [dbo].[FK_dbo.CourseInstructor_dbo.Instructor_InstructorID] (Foreign Key)
+       [dbo].[FK_dbo.Department_dbo.Instructor_InstructorID] (Foreign Key)
+       [dbo].[FK_dbo.Enrollment_dbo.Course_CourseID] (Foreign Key)
+       [dbo].[FK_dbo.Enrollment_dbo.Person_StudentID] (Foreign Key)
+       [dbo].[FK_dbo.OfficeAssignment_dbo.Instructor_InstructorID] (Foreign Key)
+       [dbo].[Department_Delete] (Procedure)
+       [dbo].[Department_Insert] (Procedure)
+       [dbo].[Department_Update] (Procedure)
+
+** Supporting actions

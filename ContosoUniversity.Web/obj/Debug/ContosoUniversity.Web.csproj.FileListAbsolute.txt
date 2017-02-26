@@ -1,0 +1,88 @@
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\ContosoUniversity.Web.dll.config
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\ContosoUniversity.Web.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\ContosoUniversity.Web.pdb
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\Antlr3.Runtime.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.SqlServer.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\Newtonsoft.Json.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.Mvc.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Helpers.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Mvc.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Optimization.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Razor.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Razor.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\WebGrease.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.SqlServer.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.Mvc.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Helpers.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Mvc.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Optimization.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Razor.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Razor.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\Antlr3.Runtime.pdb
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\bin\Newtonsoft.Json.xml
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\obj\Debug\ContosoUniversity.Web.csprojResolveAssemblyReference.cache
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\obj\Debug\ContosoUniversity.Web.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Web\obj\Debug\ContosoUniversity.Web.pdb
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\ContosoUniversity.Web.dll.config
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\ContosoUniversity.Web.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\ContosoUniversity.Web.pdb
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\Antlr3.Runtime.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.SqlServer.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\Microsoft.CSharp.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\Newtonsoft.Json.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.Mvc.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.ComponentModel.DataAnnotations.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Configuration.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Data.DataSetExtensions.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Data.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Drawing.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.EnterpriseServices.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Net.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Net.Http.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Net.Http.WebRequest.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Abstractions.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.ApplicationServices.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.DynamicData.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Entity.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Extensions.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Helpers.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Mvc.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Optimization.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Razor.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Routing.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Services.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Razor.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Xml.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Xml.Linq.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\WebGrease.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\EntityFramework.SqlServer.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\PagedList.Mvc.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Helpers.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Mvc.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Optimization.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.Razor.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\System.Web.WebPages.Razor.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\Antlr3.Runtime.pdb
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\bin\Newtonsoft.Json.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\obj\Debug\ContosoUniversity.Web.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Web\obj\Debug\ContosoUniversity.Web.pdb

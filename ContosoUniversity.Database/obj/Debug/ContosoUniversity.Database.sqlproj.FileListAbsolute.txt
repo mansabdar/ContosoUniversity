@@ -1,0 +1,19 @@
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.dacpac
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.pdb
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Database\obj\Debug\ContosoUniversity.Database.dll
+D:\Vinay\My Projects\ContosoUniversity\ContosoUniversity.Database\obj\Debug\ContosoUniversity.Database.pdb
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.dacpac
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.pdb
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\obj\Debug\Model.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\obj\Debug\refactor.xml
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\obj\Debug\postdeploy.sql
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\obj\Debug\predeploy.sql
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\obj\Debug\ContosoUniversity.Database.dll
+D:\Vinay\Git\repos\Main\ContosoUniversity\ContosoUniversity.Database\obj\Debug\ContosoUniversity.Database.pdb
+D:\Vinay\Git\repos\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.dacpac
+D:\Vinay\Git\repos\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.dll
+D:\Vinay\Git\repos\ContosoUniversity\ContosoUniversity.Database\bin\Debug\ContosoUniversity.Database.pdb
+D:\Vinay\Git\repos\ContosoUniversity\ContosoUniversity.Database\obj\Debug\ContosoUniversity.Database.dll
+D:\Vinay\Git\repos\ContosoUniversity\ContosoUniversity.Database\obj\Debug\ContosoUniversity.Database.pdb
